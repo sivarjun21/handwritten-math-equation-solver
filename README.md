@@ -21,7 +21,7 @@ Just upload a clear image of your equation, and get the solution in seconds
 | OCR Engine | [EasyOCR](https://github.com/JaidedAI/EasyOCR) + [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) |
 | Image Processing | OpenCV |
 | Math Solver | SymPy |
-| Language | Python 🐍 |
+| Language | Python  |
 
 ### 1️⃣ Clone the repository
 ```bash
